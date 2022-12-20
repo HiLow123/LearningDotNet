@@ -1,0 +1,15 @@
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/bin/Release/net7.0/LearningArrays
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/bin/Release/net7.0/LearningArrays.deps.json
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/bin/Release/net7.0/LearningArrays.runtimeconfig.json
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/bin/Release/net7.0/LearningArrays.dll
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/bin/Release/net7.0/LearningArrays.pdb
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.csproj.AssemblyReference.cache
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.AssemblyInfoInputs.cache
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.AssemblyInfo.cs
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.csproj.CoreCompileInputs.cache
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.dll
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/refint/LearningArrays.dll
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.pdb
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/LearningArrays.genruntimeconfig.cache
+/Users/godabalke/Desktop/LearningArrays/LearningArrays/obj/Release/net7.0/ref/LearningArrays.dll
